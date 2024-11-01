@@ -1,7 +1,7 @@
 {
-  "name": "sprunki-phase-3",
+  "name": "Nintendo-Music",
   "version": "1.0.0",
-  "description": "Sprunki Phase 3 online music game with a Halloween theme.",
+  "description": "Nintendo Music APK For Android Download.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
