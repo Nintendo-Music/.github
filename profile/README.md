@@ -10,7 +10,7 @@ If you are a fan of Nintendo and have fond memories of the catchy, immersive tun
 Nintendo Music APK provides users access to a variety of music tracks from Nintendo’s extensive collection. Each piece is masterfully designed to recall beloved gaming memories, immersing listeners in nostalgia. This APK app allows fans to browse, stream, and download their favorite soundtracks, making it easy to create personalized playlists that can be enjoyed on the go. Nintendo Music APK aims to deliver a comprehensive, fan-friendly platform, curating everything from retro chiptunes to modern orchestrations.
 
 ## 2. 🎉Features of Nintendo Music APK
-This app stands out due to its unique set of features tailored to music enthusiasts and Nintendo fans:
+This app stands out due to its unique set of features tailored to music enthusiasts and [Nintendo](https://github.com/Nintendo-Music/) fans:
 
 Extensive Game Soundtrack Collection: The Nintendo Music APK includes soundtracks from a range of classic and modern Nintendo games. Fans can access music from popular franchises like Mario Kart, Animal Crossing, and Metroid, as well as more niche titles. The app regularly updates its library to keep up with new game releases, ensuring users always have access to the latest tunes.
 
